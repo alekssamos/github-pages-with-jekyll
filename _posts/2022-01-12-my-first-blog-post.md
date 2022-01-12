@@ -1,3 +1,7 @@
+---
+title: "wow! first post!"
+date: 2022-01-12
+---
 ## hi all
 
 I didn't expect it to be so cool.
